@@ -1,3 +1,7 @@
+# Final Deployment:
+The final project was deployed on the following URL:
+https://lomagundi-pharmacy.com/
+
 # Lomagundi-Pharmacy
 Website for a Retail Pharmaceutical Chain
 
